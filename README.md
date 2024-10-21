@@ -1,6 +1,3 @@
-## Name:Priyanka R
-## Register Number:212223220081
-
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
